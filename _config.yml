@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage of Yue Liu(刘悦)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yue Liu"
+description              : &description "I am now a final year computer science PhD student. My expertise lies at the intersection of Machine Learning and Semantic Web. My research focus on utilizing Deep Learning for Knowledge Graph construction. I'm seeking a team in the industry with Challenging position that work on hard Machine Learning and Knowledge Graph tasks."
 url                      : https://yueliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YueLiu/YueLiu.github.io"
+repository               : "YueLiu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Yue Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am now a final year computer science PhD student. My expertise lies at the intersection of Machine Learning and Semantic Web. My research focus on utilizing Deep Learning for Knowledge Graph construction. I'm seeking a team in the industry with Challenging position that work on hard Machine Learning and Knowledge Graph tasks."
   location         : "Troy, NY, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=iJltj3oAAAAJ&hl=en"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/liuyue-rpi/"
+  linkedin         : "liuyue-rpi"
   orcid            : 
   pinterest        :
   soundcloud       :
