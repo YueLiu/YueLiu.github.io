@@ -1,7 +1,7 @@
 ---
 title: "Enhancing ontology learning with machine learning and natural language processing techniques"
 collection: publications
-permalink: https://search.proquest.com/docview/2335180717
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Doctoral Thesis'
 date: 2019-08-01
 venue: 'Journal 1'
